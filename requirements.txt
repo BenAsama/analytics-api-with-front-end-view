@@ -1,0 +1,6 @@
+fastapi
+sqlmodel
+sqlalchemy
+uvicorn
+psycopg2-binary
+timescaledb
